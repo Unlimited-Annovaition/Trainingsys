@@ -82,3 +82,4 @@ C:\Users\IP3\TrainnigSystem\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\IP3\TrainnigSystem\API\obj\Debug\net8.0\API.pdb
 C:\Users\IP3\TrainnigSystem\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\IP3\TrainnigSystem\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\IP3\TrainnigSystem\API\obj\Debug\net8.0\API.sourcelink.json
